@@ -1,8 +1,8 @@
 export class ReviewModel {
-  _id: string;
-  name: string;
-  title: string;
-  description: string;
-  rating: number;
-  created: Date;
+	_id: string;
+	name: string;
+	title: string;
+	description: string;
+	rating: number;
+	createdAt: Date;
 }
